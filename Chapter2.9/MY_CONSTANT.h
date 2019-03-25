@@ -1,0 +1,6 @@
+#pragma once
+namespace constants
+{
+	constexpr double pi(3.141592);
+	constexpr double acogardro(6.0221413e23);
+}
